@@ -1029,5 +1029,16 @@ Subject: Informatics Practices (Subject Code: 065)
 Class: XI | Session: 2025-26
 
 ---
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
+
 
 *This practical file has been prepared as per CBSE curriculum guidelines for Class XI Informatics Practices. All programs have been tested and executed successfully.*
